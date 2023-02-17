@@ -26,9 +26,9 @@ so by calculating P^ and multiply it by 4 we get approximated PI value.
 	|.         *       .|
 	|.                 .|
 	|.            *    .|
-	| ..	            .. |
-	|   ..          ..  |
-	|_____..........____|
+	| ..             .. |
+	|   ..         ..   |
+	|_____........._____|
 
 
 Remarks
