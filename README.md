@@ -20,15 +20,15 @@ by the Law of large numbers P^ converges to its expected value which is (PI/4) w
 so by calculating P^ and multiply it by 4 we get approximated PI value.
 
      ____________________
-	| 	   .........	 |
-	|*	 ..			.. * |
-	| ..		*	  .. |
-	|.		*			.|
-	|.					.|
-	|.		     *		.|
-	| ..			  .. |
-	|	..			..	 |
-	|_____.........._____|
+	|     .........     |
+	|*  ..         .. * |
+	| ..  *          .. |
+	|.         *       .|
+	|.                 .|
+	|.            *    .|
+	| ..	            .. |
+	|   ..          ..  |
+	|_____..........____|
 
 
 Remarks
